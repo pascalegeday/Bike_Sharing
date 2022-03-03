@@ -1,8 +1,10 @@
-Summary: Provide a high-level summary of the results and two additional visualizations that you would perform with the given dataset.
+# Bike Sharing User Analysis
 
-# Bike Sharing
 # Overview
 In this analysis, I am using Tableau to visualize Citi Bike - bike-sharing app data from NYC to determine if bike sharing in Des Moines, IA is a viable investment. Based on the analysis done on NYC users and their riding frequencies and tendencies, I can then present this analysis to a board of investors who are looking to open a similar bike riding company in Des Moines, IA. 
+
+Please click on the following link to view visualizations on Tableau Public: 
+https://public.tableau.com/app/profile/pascale.geday/viz/NYCCitiBikeStory_16462442865720/NYCCitiBikeStory?publish=yes
 
 # Resources 
 
